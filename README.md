@@ -54,18 +54,4 @@ Applied filters and slicers to drill down into specific time periods and product
 Well-Aligned Categories: Categories with balanced space and sales contributions indicate efficient planning.
 Over-Allocated Space: Categories with high space allocation but low sales highlight inefficiencies.
 High-Performing Categories: Products with high sales but limited space suggest opportunities for increased allocation.
-📈 Future Enhancements
-Integration with Forecasting Models: Add predictive analytics to refine space and inventory planning.
-Sustainability Metrics: Include environmental impact measures (e.g., energy consumption, waste reduction).
-Automation: Automate data refresh and reporting with Power BI’s scheduled refresh feature.
-🔗 Links
-Power BI Dashboard Screenshots: [Add Link]
-Detailed Report: [Add Link]
-Live Dashboard (if applicable): [Add Link]
-🤝 Contributions
-This project is open for collaboration! If you have suggestions or want to contribute, feel free to submit a pull request or reach out via GitHub Issues.
 
-🏷️ Tags
-#PowerBI #WarehouseManagement #DataAnalytics #Optimization #DAX #InventoryManagement #SpaceUtilization
-
-This README provides a structured and professional overview for showcasing your project on GitHub. Let me know if you’d like further refinements or additions! 😊
